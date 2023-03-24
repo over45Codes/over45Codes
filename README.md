@@ -6,19 +6,20 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer | Self-taught Dev | Software Dev Mastermind alumnus | Vtuber | #100Devs | #TheOdinProject <br> 🌱 Growth is a Winding Path, not a Straight Line
+Software Engineer | Self-taught Dev | Software Dev Mastermind alumnus | #100Devs | #TheOdinProject <br> 🌱 Growth is a Winding Path, not a Straight Line
 <br>
 </p>
 
 
 About me...
-- 🌱 Currently working thorugh the The Odin Project 
-- 👯 I’m looking forward to my next challenges Ruby on Rails, HAML, SASS, and SQL 
+- 🌱 Currently working through the The Odin Project Foundations with Ruby on Rails Path & Enjoying Learn w/Leon & Friends #100Devs JS Bootcamp! 
+- 🔭 I’m looking forward to my next challenges Ruby on Rails, HAML, SASS, and SQL 
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
 - #1 Driving Force is: Growth
+- 🌱 Soon start my Vtuber channel and streaming via Twitch coming this 2023...
 <br>
 <p align="center">
-👩🏻‍ Latina Woman In Tech 🌺 | I'm a late bloomer in programming | Passionate about Tech</p>
+👩🏻‍ Latina Woman In Tech 🌺 | I'm a late bloomer in programming over45Codes! | Passionate about Tech</p>
 
 ********
 📫 How to reach me... 
