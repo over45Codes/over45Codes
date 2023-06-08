@@ -12,7 +12,7 @@ Software Engineer | Software Dev Mastermind alumnus | Vtuber (coming in 2024) | 
 
 
 About me...
-- I started to learn to code during the pandemic in 2020, I was 46 yrs old, holding a full-time job, working remote. I have made a few projects using HTML, CSS & JavaScript. I still consider myself a beginner in 2023, but I am determined to continue my programming career. 
+- I started to learn to code during the pandemic in 2020, I was 46 yrs old, holding a full-time job, working remotely. I have made a few projects using HTML, CSS & JavaScript. I still consider myself a beginner in 2023, but I am determined to continue my programming career. 
 - 🌱 Currently working through the The Odin Project Foundations with Ruby on Rails Path & Enjoying Learn w/Leon & Friends #100Devs JS Bootcamp! 
 - 🔭 I’m looking forward to my next challenges Ruby on Rails, HAML, SASS, and SQL 
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
