@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer | Software Dev Mastermind alumnus | Vtuber (coming in 2024) | #womenintech | #100Devs | #TheOdinProject | 🌱 #latina & a late bloomer in programming 🇲🇽 <br> 🌱 Growth is a Winding Path, not a Straight Line
+Software Engineer | Software Dev Mastermind alumnus | #womenintech | #100Devs | #TheOdinProject | 🌱 #latina & a late bloomer in programming 🇲🇽 <br> 🌱 Growth is a Winding Path, not a Straight Line
 <br>
 </p>
 
@@ -17,7 +17,7 @@ About me...
 - 🔭 I’m looking forward to my next challenges Ruby on Rails, HAML, SASS, and SQL 
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
 - #1 Driving Force is: Growth
-- 🌱 Soon start my Vtuber channel and streaming via Twitch coming this 2023...
+- 🌱 Soon start my Vtuber channel and streaming via Twitch coming this 2024...
 <br>
 <p align="center">
 👩🏻‍ Latina Woman In Tech 🌺 | Loving this magical world of programming!</p>
