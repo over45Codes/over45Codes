@@ -6,21 +6,21 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer self-taught👩🏻‍💻 🇲🇽 | Software Dev Mastermind alumnus | #womenintech | Late bloomer in programming <br> 🌱 Growth is a Winding Path, not a Straight Line
+Self-Taught Dev Journey 👩🏻‍💻 🇲🇽 | Software Dev Mastermind alumnus | #womenintech | Late bloomer in programming <br> 🌱 "Growth is a Winding Path, not a Straight Line"...
 <br>
 </p>
 
 
 About me...
-- Software Engineer | 🌱 #latina & a late bloomer in programming 🇲🇽 🌱 Started my coding journey during the pandemic in 2020, I was 46 yrs old, holding a full-time job, and working remotely. I have made a few projects using HTML, CSS & JavaScript. I still consider myself a beginner in 2023, but I am determined to continue my programming career.
-- 🌱 Currently working through the The Odin Project Foundations with Ruby on Rails Path & Enjoying Learn w/Leon & Friends #100Devs JS Bootcamp! 
-- 🔭 I’m looking forward to my next challenges Ruby on Rails, HAML, SASS, and SQL 
+- Full Stack Developer Jr. | 🌱 Started my coding journey during the pandemic in 2020, I was 46 yrs old, holding a full-time job, and working remotely. I've created projects using HTML, CSS & JavaScript. 
+- 🌱 Currently working through The Odin Project Foundations with Ruby on Rails Path, along with supplemental coding courses.
+- 🔭 I’m looking forward to my next project challenges using Ruby on Rails, HAML, SASS, SQL, and APIs 
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
-- #1 Driving Force is: Growth
+- #1 Driving Force is: Growth "I embrace the road of constant learning and relentless improvement"
 - 🌱 Soon start my Vtuber channel and streaming via Twitch coming this 2024...
 <br>
 <p align="center">
-👩🏻‍ Latina Woman In Tech 🌺 | Loving this magical world of programming!</p>
+👩🏻‍ Loving this magical world of programming! 🌺</p>
 
 ********
 📫 How to reach me... 
