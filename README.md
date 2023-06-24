@@ -32,11 +32,10 @@ About me...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=over45Codes&show_icons=true&theme=radical)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=over45Codes)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=over45Codes)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64975e8cd99c9d6731933b40?variant=dark)](https://roadmap.sh)
 <br>
-<br>
+
 
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
