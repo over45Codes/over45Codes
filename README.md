@@ -6,13 +6,13 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Self-Taught Dev Journey 👩🏻‍💻 🇲🇽 | Late bloomer in programming <br> 🌱 "Growth is a Winding Path, not a Straight Line"...
+Software Engineer Self-Taught Journey 👩🏻‍💻 🇲🇽 | Late bloomer in programming <br> 🌱 "Growth is a Winding Path, not a Straight Line"...
 <br>
 </p>
 
 
 About me...
-- Full Stack Developer Jr. | 🌱 I embarked on my coding journey in late 2020 at the age of 46. During that period, I held a full-time job while working remotely. Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through The Odin Project Foundations with the Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
+- 🌱 I embarked on my coding journey in late 2020 at the age of 46. During that period, I held a full-time job while working remotely. Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through The Odin Project Foundations with the Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
 - 🔭 I am eagerly anticipating upcoming project challenges that involve working with Ruby on Rails, HAML, SASS, SQL, and APIs. 
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
 - #1 Driving Force is: Growth "I embrace the road of constant learning and relentless improvement"
