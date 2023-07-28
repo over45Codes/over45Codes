@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer Self-Taught Journey 👩🏻‍💻 🇲🇽 | Late bloomer in programming <br> 🌱 "Growth is a Winding Path, not a Straight Line"...
+Software Engineer 🚀 | Over 45+ Self-taught Dev Journey  | Late bloomer in programming 🇲🇽 | Embracing the winding path of growth! 🌱...
 <br>
 </p>
 
