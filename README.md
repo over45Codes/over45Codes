@@ -1,4 +1,4 @@
-### Hi there, I'm Grace (over45Codes)✨🇲🇽  👋 
+### Hi there, I'm Grace (over45Codes)🇲🇽  👋 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png)" width="300" height="300" /></p>
 
@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer 🚀 | A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
+Software Engineer 🚀 | A Latina's Self-Taught Development Journey in My Late 40s✨| Embracing the winding path of growth! 🌱
 <br>
 </p>
 
