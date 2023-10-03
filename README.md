@@ -1,4 +1,4 @@
-### Hi there, I'm Grace (over45Codes)✨  👋 
+### Hi there, I'm Grace (over45Codes)✨🇲🇽  👋 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png)" width="300" height="300" /></p>
 
@@ -6,17 +6,17 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer 🚀 | Over 45+ Self-taught Dev Journey  | Late bloomer in programming 🇲🇽 | Embracing the winding path of growth! 🌱...
+Software Engineer 🚀 | A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
 <br>
 </p>
 
 
 About me...
-- 🌱 I embarked on my coding journey in late 2020 at the age of 46. During that period, I held a full-time job while working remotely. Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through The Odin Project Foundations with the Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
+- 🌱 I embarked on my coding journey in late 2020 at the age of 46. During that period, I held a full-time job while working remotely. Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through JavaScript, and Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
 - 🔭 I am eagerly anticipating upcoming project challenges that involve working with Ruby on Rails, HAML, SASS, SQL, and APIs. 
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
 - #1 Driving Force is: Growth "I embrace the road of constant learning and relentless improvement"
-- 🌱 Soon start my Vtuber channel and streaming via Twitch coming this 2024...
+- 🌱 Soon start my Vtuber channel and streaming via Twitch coming 2024...
 <br>
 <p align="center">
 👩🏻‍ Loving this magical world of programming! 🌺</p>
