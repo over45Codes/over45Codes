@@ -17,7 +17,7 @@ About me...
 - 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
 - #1 Driving Force is: Growth "I embrace the road of constant learning and relentless improvement"
 - 🌱 Soon start my Vtuber channel and streaming via Twitch coming 2024...
-- Will create weekly blogs and post them on Hashnode (@https://hashnode.com/@over45Codes) --> coming soon!
+- Read about my coding journey in Hashnode (@https://hashnode.com/@over45Codes) 
 <br>
 <p align="center">
 👩🏻‍ Loving this magical world of programming! 🌺</p>
