@@ -9,18 +9,33 @@
 Software Engineer 🚀 | A Latina's Self-Taught Development Journey in My Late 40s✨| Embracing the winding path of growth! 🌱
 <br>
 </p>
-
-
 About me...
-- 🌱 I embarked on my coding journey in late 2020 at the age of 46. During that period, I held a full-time job while working remotely. Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through JavaScript, and Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
-- 🔭 I am eagerly anticipating upcoming project challenges that involve working with Ruby on Rails, HAML, SASS, SQL, and APIs. 
-- 💖  Favorite thing to do: Learning new things + ✈️ Traveling ✨ 
-- #1 Driving Force is: Growth "I embrace the road of constant learning and relentless improvement"
-- 🌱 Soon start my Vtuber channel and streaming via Twitch coming 2024...
-- Read about my coding journey in Hashnode (@https://hashnode.com/@over45Codes) 
+🚀
+<br>
+<br>
+
+Hello there! My coding journey kicked off in late 2020 when I was 46 years old. Balancing a full-time job with remote coding, I've been on a fascinating voyage into the world of web development. My toolkit includes HTML, CSS, and JavaScript, with a strong focus on mastering JavaScript and the Ruby on Rails Path. I'm not stopping there; I'm continually enhancing my skills by enrolling in additional coding courses.
+- 🌱 Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through JavaScript, and Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
+
+- 🔍 What's on the Horizon: 
+I'm eagerly looking forward to taking on exciting new challenges, which will see me delving into Ruby on Rails, HAML, SASS, SQL, and APIs. Each project is an opportunity to learn, grow, and create something extraordinary.
+
+- 💖 Personal Passions: 
+My two greatest passions are learning new things and traveling. Whether it's discovering a new coding concept or exploring a new destination, I'm all in. These experiences bring a special kind of magic to life.
+
+- #1 Driving Force:
+My driving force is growth. I wholeheartedly embrace the path of continuous learning and relentless improvement. It's not just a journey; it's a way of life. Growth "I embrace the road of constant learning and relentless improvement"
+
+🌱 What's Next: 
+In the near future, I'm gearing up to launch my Vtuber channel and start streaming on Twitch, coming in 2024. Stay tuned for exciting content and discussions on coding, technology, and more!
+
+- 📖 Read More:
+For a deeper dive into my coding journey, check out my articles on Hashnode:(@https://hashnode.com/@over45Codes) 
 <br>
 <p align="center">
-👩🏻‍ Loving this magical world of programming! 🌺</p>
+👩🏻‍ 🌺 Embracing the Magic:
+
+I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure, and together, we'll bring our ideas to life through code! 💫</p>
 
 ********
 📫 How to reach me... 
