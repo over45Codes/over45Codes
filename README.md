@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
 
 <p align="center">
-Software Engineer 🚀 | A Latina's Self-Taught Development Journey in My Late 40s✨| Embracing the winding path of growth! 
+
+🚀 Late bloomer turned coding enthusiast! 🌐 Embarked on a self-taught journey to become a Software Engineer in my late 40s. 💻 Sharing the raw, unfiltered tales of my triumphs, struggles, and everything in between. 🛠️ Turning setbacks into setups for success! Join me on this epic coding adventure! #CodingLateBloomer #SoftwareEngineerInMaking #NeverTooLateToCode 🚀✨
 <br>
 </p>
 About me...
@@ -27,7 +28,7 @@ My two greatest passions are learning new things and traveling. Whether it's dis
 My driving force is growth. I wholeheartedly embrace the path of continuous learning and relentless improvement. It's not just a journey; it's a way of life. Growth "I embrace the road of constant learning and relentless improvement"
 
 🌱 What's Next: 
-In the near future, I'm gearing up to launch my Vtuber channel and start streaming on Twitch, coming in 2024. Stay tuned for exciting content and discussions on coding, technology, and more!
+In the near future, I want to share my coding journey on social media! Stay tuned for exciting content and discussions on coding, technology, and more!
 
 - 📖 Read More:
 For a deeper dive into my coding journey, check out my articles on Hashnode:(@https://hashnode.com/@over45Codes) 
