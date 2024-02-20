@@ -1,4 +1,4 @@
-### Hi there, I'm Grace (over45Codes)🇲🇽  👋 
+### Hi there 👋 I'm Grace (over45Codes)💜🇲🇽
 <p align="center">
 <img src="https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png)" width="300" height="300" /></p>
 
@@ -7,7 +7,7 @@
 
 <p align="center">
 
-🚀 Late bloomer turned coding enthusiast! 🌐 Embarked on a self-taught journey to become a Software Engineer in my late 40s. 💻 Sharing the raw, unfiltered tales of my triumphs, struggles, and everything in between. 🛠️ Turning setbacks into setups for success! Join me on this epic coding adventure! #CodingLateBloomer #SoftwareEngineerInMaking #NeverTooLateToCode 🚀✨
+🌐 Embarked on a self-taught journey to become a Software Engineer in my late 40s. 💻 Sharing the raw, unfiltered tales of my triumphs, struggles, and everything in between. 🛠️ Turning setbacks into setups for success! Join me on this epic coding adventure! #CodingLateBloomer #SoftwareEngineerInMaking #NeverTooLateToCode 🚀✨
 <br>
 </p>
 About me...
