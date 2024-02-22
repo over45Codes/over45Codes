@@ -7,7 +7,7 @@
 
 <p align="center">
 
-Embarked on a self-taught journey to become a Software Engineer in my late 40s. 💻 Sharing the raw, unfiltered tales of my triumphs, struggles, and everything in between. 🛠️ Turning setbacks into setups for success! Join me on this epic coding adventure—from Call Centers to the Software Engineering industry leap.#CodingLateBloomer #SoftwareEngineerInMaking #NeverTooLateToCode 🚀✨
+Embarking on a self-taught journey to become a Software Engineer in my late 40s. 💻 Sharing my unfiltered tales of my triumphs, struggles, and everything in between. 🛠️ Turning setbacks into setups for success! Join me on this epic coding adventure—from Call Centers to the leap into the Software Engineering industry. #CodingLateBloomer #SoftwareEngineerInMaking #NeverTooLateToCode 🚀✨
 <br>
 </p>
 About me...
