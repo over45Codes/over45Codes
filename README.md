@@ -44,7 +44,7 @@ I'm absolutely in love with the enchanting world of programming. It's a place wh
 
 <br><br>
 <p align="center">
-Over45Codes💜🇲🇽 #CodingLateBloomer💻 
+Over45Codes💜 🇲🇽 💻 
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Technolgy Stack:**
@@ -57,7 +57,7 @@ sharing my self-taught coding journey in my late 40s. | From Call Center Managem
 <p align="center">
 <img src="https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png)" width="300" height="300" /></p>
 
-Over45Codes💜🇲🇽 Coding Late Bloomer💻 
+Over45Codes 💜 🇲🇽 💻 
 
 
 
