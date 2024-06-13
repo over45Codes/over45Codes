@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-Sharing my Late-Starter’s Self-taught coding journey in my late, late 40s! 😉  ✨ #CodingInMy40s #TechTransition 🚀 Can't wait to reach my final destination: a life in tech!✨ #CodingInMy40s #TechTransition 
+Sharing my Late-Starter’s Self-taught coding journey in my late, late 40s! 😉 ✨ #CodingInMy40s #TechTransition 🚀 Can't wait to reach my final destination: a life in tech!✨ #CodingInMy40s #TechTransition 
 - My coding journey kicked off in late 2020 when I was 46 years old. Balancing a full-time job with remote coding, I've been on a fascinating voyage into the world of web development. My toolkit includes HTML, CSS, and JavaScript, with a strong focus on mastering JavaScript and the Ruby on Rails Path. I'm not stopping there; I'm continually enhancing my skills by enrolling in additional coding courses.
 - 🌱 Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through JavaScript, and Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
 - 🔍 What's on the Horizon: 
