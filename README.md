@@ -1,4 +1,4 @@
-###  👋 Hi there, I'm Grace Castañeda (Over45Codes)💜 📍🇲🇽
+###  👋 Hi there, I'm Grace Castañeda (gracii_codes)💜 📍🇲🇽
 
 ## Full Stack Developer
 
@@ -14,38 +14,23 @@ I enjoy learning new things and traveling. Whether it's discovering a new coding
 - #1 Driving Force:
 My driving force is growth. I wholeheartedly embrace the path of continuous learning and relentless improvement. It's not just a journey; it's a way of life. 
 
-- 📖 Read More:
-For a deeper dive into my coding journey, check out my articles on Hashnode:(@https://hashnode.com/@over45Codes) 
 <br>
 <p align="center">
-👩🏻‍ 🌺 Embracing the Magic of Coding:
+👩🏻‍ 🌺  💫 Embracing the Magic of Coding:
 
-I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure, and together, we'll bring our ideas to life through code! 💫</p>
+I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure, and together, we'll bring our ideas to life through code!</p>
 
 ********
 📫 How to reach me... 
-- Email: over45codes@gmail.com
-- Lets link on Twitter [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40over45Codes)](https://twitter.com/over45Codes)
-- Lets connect on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/castanedagrace/)
+- Email: graciicodes@gmail.com
+- Lets link [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gracii_codes)](https://twitter.com/gracii_codes)
+
 <br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=over45Codes&show_icons=true&theme=radical)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=over45Codes)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64975e8cd99c9d6731933b40?variant=dark)](https://roadmap.sh)
-<br>
-<br>
-**Languages & Tools:**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br><br>
 <p align="center">
-Over45Codes💜 🇲🇽 💻 
+gracii_codes 💜 🇲🇽 💻 
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Technolgy Stack:**
@@ -59,7 +44,8 @@ sharing my self-taught coding journey in my late 40s. | From Call Center Managem
 <img src="https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/26774028/205184472-ca310add-53b1-43bf-8113-e5901b914878.png)" width="300" height="300" /></p>
 
 Over45Codes 💜 🇲🇽 💻 
-
+- 📖 Read More:
+For a deeper dive into my coding journey, check out my articles on Hashnode:(@https://hashnode.com/@over45Codes) 
 
 
 #SoftwareEngineerInMaking #NeverTooLateToCode 🚀✨
@@ -81,6 +67,20 @@ Here are some ideas to get you started:
 
 <!--
 **over45Codes/over45Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=over45Codes)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64975e8cd99c9d6731933b40?variant=dark)](https://roadmap.sh)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=over45Codes&show_icons=true&theme=radical)
+Lets connect on [![Linkedin]() LinkedIn](https://www.linkedin.com/in/castanedagrace/)
+
+
+<br>
+**Languages & Tools:**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
 
 Here are some ideas to get you started:
 
