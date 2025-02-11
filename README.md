@@ -1,9 +1,28 @@
-###  👋 Hi there, I'm Grace Castañeda (gracii_codes)💜 📍🇲🇽
+###  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
 
-## Full Stack Developer
+## 🚀 My Late-Starter Coding Journey | #CodingInMy40s
 
-Sharing my Late-Starter’s Self-taught coding journey in my late, late 40s! 😉 ✨ #CodingInMy40s #TechTransition 🚀 Can't wait to reach my final destination: a life in tech!✨ #CodingInMy40s #TechTransition 
-- My coding journey kicked off in late 2020 when I was 46 years old. Balancing a full-time job with remote coding, I've been on a fascinating voyage into the world of web development. My toolkit includes HTML, CSS, and JavaScript, with a strong focus on mastering JavaScript and the Ruby on Rails Path. I'm not stopping there; I'm continually enhancing my skills by enrolling in additional coding courses.
+Hey there! 👋 I’m on an exciting journey, proving that it’s never too late to transition into tech.
+
+🛤️ My Path to Code
+My coding adventure began in late 2020 when I was 46 years old. Juggling a full-time job while learning to code remotely, I’ve been diving deep into web development, sharpening my skills in:
+
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🔧 Backend: Ruby on Rails (on my path to mastery!)
+- 📚 Ongoing Learning: Constantly expanding my knowledge with new courses and projects
+
+## 🌟 Why I Code
+Tech has always fascinated me, and I’m passionate about problem-solving, creativity, and continuous learning. My goal? A full-time career in tech!
+
+## 🚀 What’s Next?
+Leveling up in JavaScript & Ruby on Rails
+Building real-world projects
+Connecting with fellow learners & developers
+
+📌 Follow my journey as I document my progress and share insights from my self-taught experience! Let’s connect and grow together.
+
+✨ The road may be long, but the destination is worth it! ✨
+
 - 🌱 Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through JavaScript, and Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
 - 🔍 What's on the Horizon: 
 I'm eagerly looking forward to taking on exciting new challenges, which will see me delving into Ruby on Rails, HAML, SASS, SQL, and APIs. Each project is an opportunity to learn, grow, and create something extraordinary.
@@ -18,19 +37,19 @@ My driving force is growth. I wholeheartedly embrace the path of continuous lear
 <p align="center">
 👩🏻‍ 🌺  💫 Embracing the Magic of Coding:
 
-I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure, and together, we'll bring our ideas to life through code!</p>
+I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure; together, we'll bring our ideas to life through code!</p>
 
 ********
 📫 How to reach me... 
-- Email: graciicodes@gmail.com
-- Lets link [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gracii_codes)](https://twitter.com/gracii_codes)
+- Email: over45codes@gmail.com
+- Lets link [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gracii_codes)]([[https://twitter.com/gracii_codes]](https://x.com/over45Codes)(https://x.com/Over45Codes))
 
 <br>
 
 
 <br><br>
 <p align="center">
-gracii_codes 💜 🇲🇽 💻 
+Over45Codes 💜 🇲🇽 💻
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Technolgy Stack:**
