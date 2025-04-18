@@ -1,7 +1,9 @@
-###  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
-![Screenshot 2022-12-03 at 4 28 34 PM](https://github.com/user-attachments/assets/6a753b32-9aa4-4b26-84be-af71ce5be3f2)
 
-## 🚀 My Late-Starter Coding Journey | #CodingInMy40s
+![White Minimalist Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/948f54f7-7273-401f-9005-1a539f1be8b8)
+
+##  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
+
+### 🚀 My Late-Starter Coding Journey | #CodingInMy40s
 
 Hey there! 👋 I’m on an exciting journey, proving that it’s never too late to transition into tech.
 
