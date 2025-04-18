@@ -1,5 +1,6 @@
 
-![White Minimalist Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/948f54f7-7273-401f-9005-1a539f1be8b8)
+![2White Minimalist Personal Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/4713abe4-b96c-425b-80e5-e11991e3f548)
+
 
 ##  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
 
@@ -39,16 +40,21 @@ My driving force is growth. I wholeheartedly embrace the path of continuous lear
 
 ## 🚀 My Projects
 
-| Project | Project |
-|--------|--------|
-| 
+| Project | 
+|--------|
+
 <b>JavaScript Digital Clock App</b> <br><br> 
 - Built with JavaScript, HTML, and CSS <br><br> 
 [Try it here!](https://over45Codes.github.io/digital-clock/) <br><br> 
 <img src="https://github.com/over45Codes/digital-clock/blob/master/images/digitalclocklove.png?raw=true" width="250"/> 
-| 
+
+| Project | 
+|--------|
+
 <b>Another Project - Posting Soon! </b> <br><br> 
-<!--- Description of another project <br><br> 
+<!--- 
+
+Description of another project <br><br> 
 [Try it here!](#) <br><br> 
 <img src="https://via.placeholder.com/200" width="200"/>
 |
