@@ -36,6 +36,24 @@ I enjoy learning new things and traveling. Whether it's discovering a new coding
 - #1 Driving Force:
 My driving force is growth. I wholeheartedly embrace the path of continuous learning and relentless improvement. It's not just a journey; it's a way of life. 
 
+
+## 🚀 My Projects
+
+| Project | Project |
+|--------|--------|
+| 
+<b>JavaScript Digital Clock App</b> <br><br> 
+- Built with JavaScript, HTML, and CSS <br><br> 
+[Try it here!](https://over45Codes.github.io/digital-clock/) <br><br> 
+<img src="https://github.com/over45Codes/digital-clock/blob/master/images/digitalclocklove.png?raw=true" width="250"/> 
+| 
+<b>Another Project - Posting Soon! </b> <br><br> 
+<!--- Description of another project <br><br> 
+[Try it here!](#) <br><br> 
+<img src="https://via.placeholder.com/200" width="200"/>
+|
+-->
+
 <br>
 <p align="center">
 👩🏻‍ 🌺  💫 Embracing the Magic of Coding:
@@ -47,12 +65,13 @@ I'm absolutely in love with the enchanting world of programming. It's a place wh
 - Email: over45codes@gmail.com
 - Lets link [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gracii_codes)]([[https://twitter.com/gracii_codes]](https://x.com/over45Codes)(https://x.com/Over45Codes))
 
-<br>
 
 
 <br><br>
 <p align="center">
-Over45Codes 💜 🇲🇽 💻
+© 2025 over45Codes 💜 🇲🇽 💻
+  <br><br>
+  <br><br>
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Technolgy Stack:**
