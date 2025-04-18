@@ -1,4 +1,5 @@
 ###  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
+![Screenshot 2022-12-03 at 4 28 34 PM](https://github.com/user-attachments/assets/6a753b32-9aa4-4b26-84be-af71ce5be3f2)
 
 ## 🚀 My Late-Starter Coding Journey | #CodingInMy40s
 
