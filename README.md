@@ -1,5 +1,5 @@
 
-![2White Minimalist Personal Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/4713abe4-b96c-425b-80e5-e11991e3f548)
+![1 Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/c7beb383-b665-48aa-acd4-1194ee25a8f2)
 
 
 ##  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
