@@ -1,5 +1,4 @@
-
-![1 Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/c7beb383-b665-48aa-acd4-1194ee25a8f2)
+![Grace Profile LinkedIn Banner](https://github.com/user-attachments/assets/3ee308d1-1ecf-435f-a040-51536200a345)
 
 
 ##  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
