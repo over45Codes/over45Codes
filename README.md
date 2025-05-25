@@ -1,11 +1,11 @@
 ![Grace Profile LinkedIn Banner](https://github.com/user-attachments/assets/3ee308d1-1ecf-435f-a040-51536200a345)
 
+## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 
-##  👋 Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻 
 
 ### 🚀 My Late-Starter Coding Journey | #CodingInMy40s
 
-Hey there! 👋 I’m on an exciting journey, proving that it’s never too late to transition into tech.
+Hey there! I’m on an exciting journey, proving that it’s never too late to transition into tech.
 
 🛤️ My Path to Code
 My coding adventure began in late 2020 when I was 46 years old. Juggling a full-time job while learning to code remotely, I’ve been diving deep into web development, sharpening my skills in:
@@ -36,8 +36,13 @@ I enjoy learning new things and traveling. Whether it's discovering a new coding
 - #1 Driving Force:
 My driving force is growth. I wholeheartedly embrace the path of continuous learning and relentless improvement. It's not just a journey; it's a way of life. 
 
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Languages and Tools:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>  </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> </p>
 
-## 🚀 My Projects
+
+
+
+## 🚀 Highlighted Projects
 
 | Project | 
 |--------|
@@ -127,6 +132,9 @@ Lets connect on [![Linkedin]() LinkedIn](https://www.linkedin.com/in/castanedagr
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
+
 
 
 Here are some ideas to get you started:
