@@ -74,7 +74,7 @@ I'm absolutely in love with the enchanting world of programming. It's a place wh
 📫 How to reach me... 
 - Let's connect: [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 - Email: over45codes@gmail.com
-- Posting on X: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gracii_codes)]([[https://twitter.com/gracii_codes]](https://x.com/over45Codes)(https://x.com/Over45Codes))
+- Posting: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40over45Codes)]([(https://x.com/over45Codes)](https://x.com/over45Codes)(https://x.com/Over45Codes))
 
 
 
