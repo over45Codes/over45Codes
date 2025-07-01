@@ -3,7 +3,7 @@
 ## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 
 
-### 🚀 My Late-Starter Coding Journey | #CodingInMy40s
+### 🚀 GraceTheLateStartCoder Sharing My Late-Starter Coding Journey | #CodingInMy40s
 
 Hey there! I’m on an exciting journey, proving that it’s never too late to transition into tech.
 
