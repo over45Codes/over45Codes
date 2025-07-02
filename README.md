@@ -23,9 +23,9 @@ Currently, I’m focused on expanding my backend development knowledge, working 
 **Technical Toolbox:**
 - 🌐 Frontend: HTML, CSS, JavaScript
 - 🔧 Backend: Ongoing training in Ruby on Rails (on my path to mastery!)
-- 📚 Ongoing Learning: Constantly expanding my knowledge with new courses and projects
+- 📚 Ongoing Learning: Constantly expanding my knowledge with new courses and projects 
+- ✒︎ Git · GitHub · VSCODE · GitLab 
 
-Git · GitHub · VSCODE · GitLab 
 
 **Core Skills:**
 Web Development · Customer Success Management · BPO Strategy · Project Management
