@@ -2,12 +2,16 @@
 
 ## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 
-**About Me:**
+Tech has always fascinated me. Whether it's diving into a new coding concept, improving internal processes, exploring financial tools, or traveling to new countries—I'm driven by curiosity and a hunger to grow. Every experience fuels my desire to evolve personally and professionally.
 
-I’m passionate about learning and exploration—whether it’s diving into a new coding concept or setting foot in a new country, I’m always eager to grow. These experiences fuel my curiosity and shape my drive to constantly evolve.
+- My mission:
+To blend leadership, technical know-how, and a deep commitment to customer success in order to build smart, scalable solutions that create real impact—for both businesses and their customers.
 
-#1 Driving Force: Growth
-Continuous learning and improvement aren’t just goals—they’re my way of life.
+- My driving force: Growth
+Continuous learning and improvement aren’t just goals—they’re how I live and work.
+
+- 🔍 What's on the Horizon: 
+I'm eagerly looking forward to taking on exciting new challenges, which will see me delving into Ruby on Rails, HAML, SASS, SQL, and APIs. Each project is an opportunity to learn, grow, and create something extraordinary.
 
 With over 10 years of experience in Customer and Technical Support, I’ve developed deep expertise in Contact Center operations and Business Process Outsourcing (BPO) across LATAM. I’ve played a key role in supporting startups with international expansion, building bridges between customers, teams, and technology.
 
@@ -15,10 +19,13 @@ My enthusiasm for web development and technology pushes me to continuously level
 
 Currently, I’m focused on expanding my backend development knowledge, working with Ruby on Rails, HAML, and SQL. I thrive on solving real-world problems with practical tech solutions, driving both efficiency and innovation.
 
-My mission: to combine leadership, technical insight, and a passion for customer success to deliver smart, scalable solutions that make a difference.
 
 **Technical Toolbox:**
-JavaScript · CSS · HTML · Git · GitHub · VSCODE · GitLab 
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🔧 Backend: Ongoing training in Ruby on Rails (on my path to mastery!)
+- 📚 Ongoing Learning: Constantly expanding my knowledge with new courses and projects
+
+Git · GitHub · VSCODE · GitLab 
 
 **Core Skills:**
 Web Development · Customer Success Management · BPO Strategy · Project Management
@@ -27,71 +34,14 @@ Team Leadership · Workforce Management · Recruiting
 Sales & Marketing Strategy · Tech Enthusiast
 
 
-### 🚀 GraceTheLateStartCoder · Sharing My Late-Starter Coding Journey · #CodingInMy40s
-I’m on an exciting journey, proving that it’s never too late to transition into tech.
-
-🛤️ My Path to Code
-My coding adventure began in late 2020 when I was 46 years old. Juggling a full-time job while learning to code remotely, I’ve been diving deep into web development, sharpening my skills in:
-
-- 🌐 Frontend: HTML, CSS, JavaScript
-- 🔧 Backend: Ruby on Rails (on my path to mastery!)
-- 📚 Ongoing Learning: Constantly expanding my knowledge with new courses and projects
-
-## 🌟 Why I Code
-Tech has always fascinated me, and I’m passionate about problem-solving, creativity, and continuous learning. My goal? A full-time career in tech!
-
-## 🚀 What’s Next?
-Leveling up in JavaScript & Ruby on Rails
-Building real-world projects
-Connecting with fellow learners & developers
-
-📌 Follow my journey as I document my progress and share insights from my self-taught experience! Let’s connect and grow together.
-
-✨ The road may be long, but the destination is worth it! ✨
-
-- 🌱 Throughout my journey, I have developed projects utilizing HTML, CSS, and JavaScript. Currently, I am advancing through JavaScript, and Ruby on Rails Path, alongside enrolling in supplementary coding courses. 
-- 🔍 What's on the Horizon: 
-I'm eagerly looking forward to taking on exciting new challenges, which will see me delving into Ruby on Rails, HAML, SASS, SQL, and APIs. Each project is an opportunity to learn, grow, and create something extraordinary.
-
-- 💖 Personal Passions: 
-I enjoy learning new things and traveling. Whether it's discovering a new coding concept or exploring a new destination, I'm all in. These experiences bring a special kind of magic to life.
-
-- #1 Driving Force:
-My driving force is growth. I wholeheartedly embrace the path of continuous learning and relentless improvement. It's not just a journey; it's a way of life. 
-
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Languages and Tools:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>  </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> </p>
 
 
 
 
-## 🚀 Highlighted Projects
 
-| Project | 
-|--------|
 
-<b>JavaScript Digital Clock App</b> <br><br> 
-- Built with JavaScript, HTML, and CSS <br><br> 
-[Try it here!](https://over45Codes.github.io/digital-clock/) <br><br> 
-<img src="https://github.com/over45Codes/digital-clock/blob/master/images/digitalclocklove.png?raw=true" width="250"/> 
-
-| Project | 
-|--------|
-
-<b>Another Project - Posting Soon! </b> <br><br> 
-<!--- 
-
-Description of another project <br><br> 
-[Try it here!](#) <br><br> 
-<img src="https://via.placeholder.com/200" width="200"/>
-|
--->
-
-<br>
-<p align="center">
-👩🏻‍ 🌺  💫 Embracing the Magic of Coding:
-
-I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure; together, we'll bring our ideas to life through code!</p>
 
 ********
 📫 How to reach me... 
@@ -156,9 +106,21 @@ Lets connect on [![Linkedin]() LinkedIn](https://www.linkedin.com/in/castanedagr
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
+#My goal? Building Financial Tools
 
+### 🚀 Sharing My Late-Starter Coding Journey · #CodingInMy40s
+I’m on an exciting journey, proving that it’s never too late to transition into tech.
 
+🛤️ My Path to Code
+My coding adventure began in late 2020 when I was 46 years old. Juggling a full-time job while learning to code remotely, I’ve been diving deep into web development, sharpening my skills in:
 
+<br>
+<p align="center">
+👩🏻‍ 🌺  💫 Embracing the Magic of Coding:
+
+I'm absolutely in love with the enchanting world of programming. It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm. Join me on this magical adventure; together, we'll bring our ideas to life through code!</p>
+
+## 🌟 Why I Code
 
 Here are some ideas to get you started:
 
@@ -170,4 +132,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🚀 Highlighted Projects
+
+| Project | 
+|--------|
+
+<b>JavaScript Digital Clock App</b> <br><br> 
+- Built with JavaScript, HTML, and CSS <br><br> 
+[Try it here!](https://over45Codes.github.io/digital-clock/) <br><br> 
+<img src="https://github.com/over45Codes/digital-clock/blob/master/images/digitalclocklove.png?raw=true" width="250"/> 
+
+| Project | 
+|--------|
+
+<b>Another Project - Posting Soon! </b> <br><br> 
+
+
+Description of another project <br><br> 
+[Try it here!](#) <br><br> 
+<img src="https://via.placeholder.com/200" width="200"/>
+
 -->
