@@ -2,10 +2,33 @@
 
 ## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 
+**About Me:**
 
-### 🚀 GraceTheLateStartCoder Sharing My Late-Starter Coding Journey | #CodingInMy40s
+I’m passionate about learning and exploration—whether it’s diving into a new coding concept or setting foot in a new country, I’m always eager to grow. These experiences fuel my curiosity and shape my drive to constantly evolve.
 
-Hey there! I’m on an exciting journey, proving that it’s never too late to transition into tech.
+#1 Driving Force: Growth
+Continuous learning and improvement aren’t just goals—they’re my way of life.
+
+With over 10 years of experience in Customer and Technical Support, I’ve developed deep expertise in Contact Center operations and Business Process Outsourcing (BPO) across LATAM. I’ve played a key role in supporting startups with international expansion, building bridges between customers, teams, and technology.
+
+My enthusiasm for web development and technology pushes me to continuously level up my skills. In my current role, I collaborate with software development teams to enhance user experience and post-deployment performance—ensuring systems run smoothly and customers stay happy.
+
+Currently, I’m focused on expanding my backend development knowledge, working with Ruby on Rails, HAML, and SQL. I thrive on solving real-world problems with practical tech solutions, driving both efficiency and innovation.
+
+My mission: to combine leadership, technical insight, and a passion for customer success to deliver smart, scalable solutions that make a difference.
+
+**Technical Toolbox:**
+JavaScript · CSS · HTML · Git · GitHub · VSCODE · GitLab 
+
+**Core Skills:**
+Web Development · Customer Success Management · BPO Strategy · Project Management
+Software Troubleshooting · Root Cause Analysis · Help Desk Support
+Team Leadership · Workforce Management · Recruiting
+Sales & Marketing Strategy · Tech Enthusiast
+
+
+### 🚀 GraceTheLateStartCoder · Sharing My Late-Starter Coding Journey · #CodingInMy40s
+I’m on an exciting journey, proving that it’s never too late to transition into tech.
 
 🛤️ My Path to Code
 My coding adventure began in late 2020 when I was 46 years old. Juggling a full-time job while learning to code remotely, I’ve been diving deep into web development, sharpening my skills in:
