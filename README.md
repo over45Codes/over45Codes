@@ -9,18 +9,6 @@
 Tech has always fascinated me. Whether it's diving into a new coding concept, improving internal processes, exploring financial tools, or traveling to new countries—I'm driven by curiosity and a hunger to grow. Every experience fuels my desire to evolve personally and professionally.
 After a major life reset, I moved to Mexico and began a new chapter. In late 2020, at 46, I started teaching myself web development while working full-time. I’ve been building ever since — one commit at a time.
 
-🔧 Currently learning:
-
-JavaScript (Arrays, Objects, Functions)
-
-Ruby on Rails
-
-SQL, Haml
-
-Linux & the command line
-
-CSS Grid, Git, GitHub, VS Code
-
 🧠 I believe in consistent progress, clean code, and the power of second chances.
 
 - My mission:
