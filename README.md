@@ -2,7 +2,26 @@
 
 ## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 
+👋 Self-taught developer on a mission to reinvent myself through code. No shortcuts. Just code, coffee, and comeback energy. 
+
+
+
 Tech has always fascinated me. Whether it's diving into a new coding concept, improving internal processes, exploring financial tools, or traveling to new countries—I'm driven by curiosity and a hunger to grow. Every experience fuels my desire to evolve personally and professionally.
+After a major life reset in 2008, I moved to Mexico and began a new chapter. In late 2020, at 46, I started teaching myself web development while working full-time. I’ve been building ever since — one commit at a time.
+
+🔧 Currently learning:
+
+JavaScript (Arrays, Objects, Functions)
+
+Ruby on Rails
+
+SQL, Haml
+
+Linux & the command line
+
+CSS Grid, Git, GitHub, VS Code
+
+🧠 I believe in consistent progress, clean code, and the power of second chances.
 
 - My mission:
 To blend leadership, technical know-how, and a deep commitment to customer success in order to build smart, scalable solutions that create real impact—for both businesses and their customers.
