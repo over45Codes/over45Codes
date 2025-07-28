@@ -1,4 +1,5 @@
-![Grace Profile LinkedIn Banner](https://github.com/user-attachments/assets/3ee308d1-1ecf-435f-a040-51536200a345)
+
+<img width="1584" height="396" alt="Grace Minimalist Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/80af56a9-4d73-40f0-8f65-36ecc5e713c6" />
 
 ## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
 
